@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vijaysaiy
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning DSA with java and java spring
 - 💞️ I’m looking to collaborate on Full stack projects
 
 
